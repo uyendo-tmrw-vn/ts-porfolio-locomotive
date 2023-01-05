@@ -1,0 +1,61 @@
+{
+    "navbar": {
+        "logo": "Sm",
+        "btnMenu": "Menu",
+        "aboutMe": "About me",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "landing": {
+        "name": "Santiago",
+        "lastName": "Molina",
+        "frontend": "Frontend",
+        "web": "Web",
+        "developer": "Developer",
+        "portfolio": "Portfolio",
+        "year": "2022"
+    },
+    "about": {
+        "aboutMe":"About me",
+        "description": "I'm from Tucuman, Argentina. When I started college, I signed up for Systems Engineering in order to understand and learn more about the IT world. Being convinced that programming was what I wanted to focus on, I decided to steer my life in that direction and graduated from a bootcamp as a full-stack developer. I'm a programmer looking for a team where I can learn and put all my knowledge into practice, gain experience and grow professionally in this career.",
+        "downloadCV": "Download resume"
+    },
+    "projects": {
+        "projects": "My projects",
+        "viewRepo": "See repository",
+        "viewDemo": "See demo",
+        "Movye": "Web application to search movies, order and filter them. It also allows to add movies to favorites and watchlist. Technologies: Next.js and styled components.",
+        "Arthub": "E-commerce for selling art. Developed alongside a team, using the scrum methodology. Technologies: React, Redux, Express, Sequelize, Firebase, PostgreSQL and authentication with JWT.",
+        "Memotest": "Classic memory game, with the possibility of choosing 2 themes. Technologies: typescript and styled components",
+        "PI - Dogs": "Full-stack individual project. It's an application that shows information about every dog breed. It's also possible to create new ones. Technologies: React, Redux, Express, Sequelize and PostgreSQL.",
+        "App-Clima": "Web application made with React. Look up the weather information of any city in the world."
+        
+    },
+    "marquee1": {
+        "openToWork": "Open to work",
+        "fullName": "Santiago Molina",
+        "portfolio2022": "Portfolio 2022"
+    },
+    "contactForm": {
+        "contact": "Contact",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send",
+        "sending": "Sending",
+        "email1": "molina.santiago.martin@gmail.com",
+        "success": "Your message has been sent",
+        "nameLabel": "Name (required)",
+        "emailLabel": "Email (required)",
+        "messageLabel": "Message (required)"
+    },
+    "socialMediaLinks": {
+        "linkedIn": "LinkedIn",
+        "github": "Github",
+        "twitter": "Twitter"
+    },
+    "backToTop": {
+        "back": "Back to top"
+    }
+
+}
